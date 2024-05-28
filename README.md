@@ -23,8 +23,12 @@ cd web_scraping
  
  [ pip install -r requirements.txt ]
 
-## Step3: Run the code on jupyter notebook
+## Step3: Run the code of scraper.ipynb on jupyter notebook
 jupyter notebook
+
+
+I have displayed the data as a dataframe in fetch_data.ipynb on Jupyter Notebook and downloaded in csv file.
+
 
 
 
