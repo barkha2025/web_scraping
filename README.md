@@ -1,6 +1,9 @@
 # Web Scraping Using Python
 
 
+![WEB SCRAPING](https://github.com/barkha2025/web_scraping/assets/163202348/8465d71d-3aff-492e-b9ef-5fe7e5a65099)
+
+
 This project scrapes data from the given url and saves it to a Postgre SQL.
 
 URLs :
@@ -8,7 +11,7 @@ URLs :
 2. https://www.scrapethissite.com/pages/forms/
 3. https://www.scrapethissite.com/pages/advanced/
 
-## Installation
+## Step1: Installation
 
 Clone the git repository and install the required packages:
 
@@ -16,4 +19,12 @@ git clone https://github.com/barkha2025/web_scraping.git
 
 cd web_scraping
 
-pip install -r requirements.txt
+ ## Step2: Install Dependencies:
+ 
+ [ pip install -r requirements.txt ]
+
+## Step3: Run the code on jupyter notebook
+jupyter notebook
+
+
+
