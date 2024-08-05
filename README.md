@@ -14,14 +14,17 @@ URLs :
 ## Step1: Installation
 
 Clone the git repository and install the required packages:
-
+```
 git clone https://github.com/barkha2025/web_scraping.git
-
+```
+```
 cd web_scraping
+```
 
  ## Step2: Install Dependencies:
- 
- [ pip install -r requirements.txt ]
+ ```
+ pip install -r requirements.txt 
+```
 
 ## Step3: Run the code of scraper.ipynb on jupyter notebook
 jupyter notebook
